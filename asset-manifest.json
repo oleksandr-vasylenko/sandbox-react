@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sandbox-react/static/css/main.7acaea2f.css",
-    "main.js": "/sandbox-react/static/js/main.07d3183d.js",
+    "main.js": "/sandbox-react/static/js/main.19b76ff4.js",
     "index.html": "/sandbox-react/index.html",
     "main.7acaea2f.css.map": "/sandbox-react/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/sandbox-react/static/js/main.07d3183d.js.map"
+    "main.19b76ff4.js.map": "/sandbox-react/static/js/main.19b76ff4.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.19b76ff4.js"
   ]
 }
