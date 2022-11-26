@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Smoked salmon burger",
+    "time": "20",
+    "servings": 6,
+    "calories": 210,
+    "image": "https://salmonbrokers.net/wp-content/uploads/2016/11/salmonbrokers-southwest-burger-600.jpg",
+    "difficulty": "easy"
+  },
+
+  {
+    "id": 2,
+    "name": "Tomatoes with Creamy Feta",
+    "time": "10",
+    "servings": 3,
+    "calories": 600,
+    "image": "https://masonfit.com/wp-content/uploads/2021/07/roasted-tomatoes-and-whipped-feta-720x720.jpg",
+    "difficulty": "medium"
+  },
+
+  {
+    "id": 3,
+    "name": "Spicy potato salad",
+    "time": "15",
+    "servings": 2,
+    "calories": 320,
+    "image": "https://static.onecms.io/wp-content/uploads/sites/19/2003/10/17/potato-salad-sl-520939-x.jpg",
+    "difficulty": "medium"
+  }
+]
